@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    /* padding: 0; */
+    /* margin: 0; */
+    /* border: 0; */
+    
+
+    
+}
+
+body {
+    color: #fff;
+    background-color: rgb(177, 93, 212);
+}
+
+.splitBlock {
+    display: flex;
+}
+
+.left-col {
+    margin-left: 80px;
+    width: 50%;
+    height: 100vh;
+    background-image: url(Photo halna parni chaaaa);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.right-col {
+    margin-right: 80px;
+    padding-left: 80px;
+    padding-top: 80px;
+    width: 50%;
+    height: 100vh;
+    background-color: rgb(109, 151, 115);
+}
+
+
+
+h1{
+    font-size: 60px;
+    margin-bottom: 40%;
+}
+
+P {
+    font-size: 40px;
+}
